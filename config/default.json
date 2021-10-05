@@ -1,0 +1,4 @@
+{
+  "mongoURI":
+    "mongodb+srv://Raxesh:rax123@mernlearn.jhx0x.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
